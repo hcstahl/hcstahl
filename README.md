@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hcstahl
+- I'm currently a Data Science Master's Student at Texas Lutheran University. I will graduate in May 2022.
 - 👀 I’m interested in ... Data Science Internships for Summer 2022.
 - 📫 hcstahl@outlook.com
 
